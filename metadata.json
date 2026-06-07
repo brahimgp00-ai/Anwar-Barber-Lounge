@@ -1,0 +1,6 @@
+{
+  "name": "Le Barberon Star",
+  "description": "Premium Barber Lounge in Casablanca - Sharp cuts, clean style, and confident impressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
